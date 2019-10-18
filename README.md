@@ -1,6 +1,6 @@
 
 # CODEWARS
- Codewars is a site where programmers can practice programming challenges called words. in this repository contains my collection of solved solutions in Codewars. **Feel free to check, or tell me the better ways**
+ Codewars is a site where programmers can practice programming challenges called words. in this repository contains my collection of solved solutions in Codewars. **Feel free to check, or tell me the better way**
 
 <img height="270" src="https://miro.medium.com/max/1050/1*a9L7ZZhi8hIAJmWXmSaPXw.png">
 
