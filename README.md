@@ -1,3 +1,4 @@
+
 # CODEWARS
  Codewars is a site where programmers can practice programming challenges called words. in this repository contains my collection of solved solutions in Codewars. **Feel free to check, or tell me the better ways**
 
@@ -9,6 +10,7 @@
 
 ### [:shield: Clan: Freecodecamp ](https://www.codewars.com/users/Naandalist)
 
+---
 
 
 ## Solved JavaScript Kata:
