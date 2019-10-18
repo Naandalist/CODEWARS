@@ -11,8 +11,8 @@
 
 ### [:books: 8 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/8kyu)
 
-- :notebook:
+- :green_book:
 [**Get ASCII value of character**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/8kyu/getAsciiValueOfCharacter.js)
 
-- :notebook:
+- :green_book:
 [**Simple Multiplication**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/8kyu/Simple%20multiplication.js)
