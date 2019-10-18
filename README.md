@@ -7,6 +7,8 @@
 
 ### [:dagger: User : Naandalist ](https://www.codewars.com/users/Naandalist)
 
+### [:shield: Freecodecamp ](https://www.codewars.com/users/Naandalist)
+
 ## Solved JavaScript Kata:
 
 ### [:books: 8 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/8kyu)
