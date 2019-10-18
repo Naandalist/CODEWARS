@@ -7,7 +7,7 @@
 
 ### [:dagger: User : Naandalist ](https://www.codewars.com/users/Naandalist)
 
-### [:shield: Freecodecamp ](https://www.codewars.com/users/Naandalist)
+### [:shield: Clan: Freecodecamp ](https://www.codewars.com/users/Naandalist)
 
 ## Solved JavaScript Kata:
 

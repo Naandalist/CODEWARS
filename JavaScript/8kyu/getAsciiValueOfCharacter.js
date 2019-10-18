@@ -7,4 +7,4 @@
 
 function getASCII(char){
     return char.charCodeAt();
-  }
+}
