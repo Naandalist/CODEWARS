@@ -32,7 +32,6 @@
 - :green_book:
 [**Unique In Order**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/UniqueInOrder.js)
 
-## Solved JavaScript Kata:
 ### [:books: 7 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/7kyu)
 
 - :green_book:
