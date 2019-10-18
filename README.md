@@ -5,3 +5,4 @@
 
 [<img src="https://www.codewars.com/users/Naandalist/badges/large">](https://www.codewars.com/users/Naandalist)
 
+### [:dagger: Naandalist ](https://www.codewars.com/users/andreassosilo/)  
