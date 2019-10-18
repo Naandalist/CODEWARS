@@ -9,7 +9,43 @@
 
 ### [:shield: Clan: Freecodecamp ](https://www.codewars.com/users/Naandalist)
 
+
+
 ## Solved JavaScript Kata:
+
+
+### [:books: 5 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/5kyu)
+
+- :green_book:
+[**Additionless Addition**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/5kyu/AdditionlessAddition.js)
+
+- :green_book:
+[**Simple Pig Latin**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/5kyu/SimplePigLatin.js)
+
+
+### [:books: 6 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/6kyu)
+
+- :green_book:
+[**Two Sum**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/TwoSum.js)
+
+
+- :green_book:
+[**Unique In Order**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/UniqueInOrder.js)
+
+## Solved JavaScript Kata:
+### [:books: 7 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/7kyu)
+
+- :green_book:
+[**From The Largest**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/FromTheLargest.js)
+
+- :green_book:
+[**Highest and Lowest**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/HighestandLowest.js)
+
+- :green_book:
+[**Make a Function that Does Arithmetic**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/MakeAFunctionThatDoesArithmetic.js)
+
+- :green_book:
+[**String Ends With**](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/StringEndsWith.js)
 
 ### [:books: 8 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/8kyu)
 
