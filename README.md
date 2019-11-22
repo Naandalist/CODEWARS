@@ -34,7 +34,7 @@
   - :green_book:
   [Unique In Order](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/UniqueInOrder.js)
 
-  -:green_book:
+  - :green_book:
   [Format String of Name](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/formatStringOfName.js)
 
   ### [:books: 7 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/7kyu)
