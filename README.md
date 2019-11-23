@@ -24,6 +24,9 @@
   - :green_book:
   [Simple Pig Latin](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/5kyu/SimplePigLatin.js)
 
+  - :green_book:
+  [Moving Zeros To End](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/5kyu/MovingZerosToEnd.js)
+
 
   ### [:books: 6 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/6kyu)
 
@@ -50,6 +53,11 @@
 
   - :green_book:
   [String Ends With](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/StringEndsWith.js)
+
+  - :green_book:
+  [Shortest Words](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/7kyu/ShortestWords.js)
+
+
 
   ### [:books: 8 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/8kyu)
 
