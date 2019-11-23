@@ -8,7 +8,7 @@
 
   ### [:dagger: User : Naandalist ](https://www.codewars.com/users/Naandalist)
 
-  ### [:shield: Clan: Freecodecamp ](https://www.codewars.com/users/Naandalist)
+  ### [:shield: Clan: Hacktiv8 ](https://www.codewars.com/users/Naandalist)
 
 
 
@@ -39,6 +39,21 @@
 
   - :green_book:
   [Format String of Name](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/formatStringOfName.js)
+
+  - :green_book:
+  [Whos Like It](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/WhoLikesIt.js)
+
+  - :green_book:
+  [Find The Parity Outlier](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/FindTheParityOutlier.js)
+
+  - :green_book:
+  [Sum of Digit](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/SumOfDigit.js)
+
+  - :green_book:
+  [Create Phone Number](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/CreatePhoneNumber.js)
+
+  - :green_book:
+  [Find The Odd Integer](https://github.com/Naandalist/CODEWARS/blob/master/JavaScript/6kyu/FindTheOddInt.js)
 
   ### [:books: 7 Kyu](https://github.com/Naandalist/CODEWARS/tree/master/JavaScript/7kyu)
 
