@@ -12,7 +12,7 @@ CodeWars is a platform that offers coding challenges, It's a website where progr
 
 ## Overview
 
-This repository contains my collection of solved solutions in Codewars. Currently, I have reached level 5 kyu.
+This repository contains my collection of solved solutions in Codewars. I also add unit test for each solutions using Jest. Currently, I have reached level 5 kyu.
 
 [<img width="100%" src="https://www.codewars.com/users/Naandalist/badges/large">](https://www.codewars.com/users/Naandalist)
 
