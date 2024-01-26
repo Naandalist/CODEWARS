@@ -1,0 +1,17 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "This repository contains my collection of solved solutions in Codewars.",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "codewars",
+    "algorithm"
+  ],
+  "author": "Naandalist",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
