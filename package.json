@@ -7,9 +7,21 @@
   },
   "keywords": [
     "codewars",
-    "algorithm"
+    "algorithm",
+    "codewars",
+    "coding",
+    "challenges",
+    "algorithms",
+    "javascript",
+    "programming",
+    "solutions",
+    "practice"
   ],
-  "author": "Naandalist",
+  "author": {
+    "name": "Naandalist",
+    "email": "naandalist@outlook.com",
+    "url": "https://github.com/naandalist"
+  },
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
